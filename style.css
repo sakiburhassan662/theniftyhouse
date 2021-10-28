@@ -52,4 +52,33 @@ h1.text-primary {
 .housekeeping-expert {
     color: #727272;
 }
-.para {padding-top: 35px;padding-left: 15px;padding-right: 60px;}
+
+.para {
+    padding-top: 35px;
+    padding-left: 15px;
+    padding-right: 60px;
+    font-size: 18px;
+}
+p.amazon-associate {
+    padding-top: 35px;
+    padding-left: 15px;
+    padding-right: 60px;
+    font-size: 13px;
+    color: gray;
+}
+h1.text-primary {
+    padding-top: 45px;
+    font-size: 24px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-right: 40px;
+    padding-bottom: 1-0px;
+}
+h3 {
+    padding-top: 20px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
