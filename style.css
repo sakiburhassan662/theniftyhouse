@@ -38,7 +38,7 @@ ul.icon {
 
 .best-machine {
     width: 1000px;
-    height: 2000px;
+    height: 3000px;
     border-radius: 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     padding-left: 25px;
@@ -48,6 +48,7 @@ ul.icon {
 h1.machin-floor-grout {
     padding-top: 45px;
 }
+
 h1.hurry {
     padding-top: 45px;
 }
@@ -62,6 +63,7 @@ h1.hurry {
     padding-right: 60px;
     font-size: 18px;
 }
+
 p.amazon-associate {
     padding-top: 35px;
     padding-left: 15px;
@@ -69,15 +71,17 @@ p.amazon-associate {
     font-size: 13px;
     color: gray;
 }
-h1.text-primary {
+
+h1.grout {
     padding-top: 45px;
     font-size: 24px;
     align-items: center;
     display: flex;
     flex-direction: column;
     padding-right: 40px;
-    padding-bottom: 1-0px;
+    padding-bottom: 10px;
 }
+
 .name {
     padding-top: 20px;
     font-size: 25px;
@@ -85,6 +89,11 @@ h1.text-primary {
     flex-direction: column;
     align-items: center;
 }
+
+.card-deck {
+    padding-right: 25px;
+}
+
 .cleaner {
     padding-top: 30px;
     padding-bottom: 40px;
@@ -94,40 +103,82 @@ h1.text-primary {
     align-items: center;
     color: red;
 }
+
 .star-icon {
     display: flex;
     flex-direction: row;
     padding-top: 30px;
     padding-bottom: 15px;
 }
+
 i.fas.fa-star {
     color: #b0aaff;
 }
+
 i.fas.fa-star-half-alt {
     color: #b0aaff;
 }
+
 .star-icon.h3 {
     font-size: 20px;
 }
+
 h3.elementor {
     font-size: 16px;
     padding-left: 20px;
 }
+
 .clean {
     padding-bottom: 30px;
     padding-top: 20px;
 }
+
 .buy {
     display: flex;
     flex-direction: row;
     background-color: #2fc0ff47;
 }
+
 .amazon {
     padding-left: 15px;
 }
+
 i.fas.fa-shopping-cart {
     padding-top: 25px;
     padding-left: 15px;
     color: white;
     font-size: 23px;
+}
+
+h1.steam-cleaner {
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+h2.key-feature {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: red;
+    padding-top: 20px;
+}
+
+.top-banner {
+    background-repeat: no-repeat;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 70px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+h1.key {
+    font-size: 20px;
 }
